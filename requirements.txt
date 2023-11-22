@@ -1,0 +1,13 @@
+numpy
+pandas
+plotly
+scipy
+jcopml
+sklearn
+geopandas
+shapely
+streamlit
+babel
+ipykernel
+nbformat
+seaborn
